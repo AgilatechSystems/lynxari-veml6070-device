@@ -1,0 +1,7 @@
+{
+    "streamPeriod": 300000,
+    "devicePoll": 60000,
+    "uv_range": 250,
+    "uv_index_range": 12,
+    "integration": 1
+}

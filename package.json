@@ -1,0 +1,22 @@
+{
+  "name": "@agilatech/lynxari-veml6070-device",
+  "version": "0.8.0",
+  "description": "VEML6070 UVA sensor device driver for use in the Agilatech Lynxari system",
+  "main": "veml6070-scout.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/lynxari-veml6070-device.git"
+  },
+  "keywords": [
+    "sensor",
+    "Bosch",
+    "veml6070",
+    "UV",
+    "UVA"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@agilatech/veml6070": "*"
+  }
+}
